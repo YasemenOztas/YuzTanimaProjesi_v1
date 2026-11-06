@@ -1,0 +1,9 @@
+﻿# Loglar ve yerel ayarlar
+logs/
+*.csv
+.env
+__pycache__/
+venv/
+.venv/
+.vscode/
+
